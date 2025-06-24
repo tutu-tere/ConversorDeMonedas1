@@ -1,4 +1,5 @@
 # 💱 Conversor de Monedas – Java + API
+![techie logo for tutu](https://github.com/user-attachments/assets/626c0332-ebc6-41d1-8cd1-ae76b363260e)
 
 Este proyecto es una aplicación de consola escrita en **Java**, diseñada para convertir montos entre diferentes monedas utilizando una API de tasas de cambio en tiempo real.
 
@@ -49,7 +50,6 @@ Los tipos de cambio se obtienen desde [ExchangeRate-API](https://www.exchangerat
 Desarrollado por **Tutu-tere** como parte de un desafío de programación y aprendizaje de APIs, JSON y Java moderno.  
 ¡Gracias por visitar este proyecto!
 
-![menu-conversor-de-moneda](https://github.com/user-attachments/assets/e56072f4-bc5c-4183-9c59-e200e679f420)
 
 
 
